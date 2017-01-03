@@ -1,241 +1,275 @@
 [
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "verb",
     "writing": "会う",
     "reading": "あう",
-    "english": "to meet"
+    "english": "to meet",
+    "swedish": "möta"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "other",
     "writing": "青",
     "reading": "あお",
-    "english": "blue"
+    "english": "blue",
+    "swedish": "blå"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "adjective",
     "writing": "青い",
     "reading": "あおい",
-    "english": "blue"
+    "english": "blue",
+    "swedish": "blå"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "other",
     "writing": "赤",
     "reading": "あか",
-    "english": "red"
+    "english": "red",
+    "swedish": "röd"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "adjective",
     "writing": "赤い",
     "reading": "あかい",
-    "english": "red"
+    "english": "red",
+    "swedish": "röd"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "adjective",
     "writing": "明い",
     "reading": "あかるい",
-    "english": "bright"
+    "english": "bright",
+    "swedish": "ljus"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "noun",
     "writing": "秋",
     "reading": "あき",
-    "english": "autumn"
+    "english": "autumn",
+    "swedish": "höst"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "verb",
     "writing": "開く",
     "reading": "あく",
-    "english": "to become open"
+    "english": "to become open",
+    "swedish": "öppna sig"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "verb",
     "writing": "開く",
     "reading": "あく",
-    "english": "to open"
+    "english": "to open",
+    "swedish": "öppna"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "verb",
     "writing": "開ける",
     "reading": "あける",
-    "english": "to open"
+    "english": "to open",
+    "swedish": "öppna"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "verb",
     "writing": "上げる",
     "reading": "あげる",
-    "english": "to give"
+    "english": "to give",
+    "swedish": "ge"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "noun",
     "writing": "朝",
     "reading": "あさ",
-    "english": "morning"
+    "english": "morning",
+    "swedish": "morgon"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "noun",
     "writing": "朝御飯",
     "reading": "あさごはん",
-    "english": "breakfast"
+    "english": "breakfast",
+    "swedish": "frukost"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "other",
     "writing": "あさって",
     "reading": "あさって",
-    "english": "day after tomorrow"
+    "english": "day after tomorrow",
+    "swedish": "övermorgon"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "noun",
     "writing": "足",
     "reading": "あし",
-    "english": "leg"
+    "english": "leg",
+    "swedish": "ben"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "noun",
     "writing": "足",
     "reading": "あし",
-    "english": "foot"
+    "english": "foot",
+    "swedish": "fot"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "other",
     "writing": "明日",
     "reading": "あした",
-    "english": "tomorrow"
+    "english": "tomorrow",
+    "swedish": "imorgon"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "other",
     "writing": "あそこ",
     "reading": "あそこ",
-    "english": "over there"
+    "english": "over there",
+    "swedish": "där borta"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "verb",
     "writing": "遊ぶ",
     "reading": "あそぶ",
-    "english": "to make a visit"
+    "english": "to make a visit",
+    "swedish": "hälsa på"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "verb",
     "writing": "遊ぶ",
     "reading": "あそぶ",
-    "english": "to play"
+    "english": "to play",
+    "swedish": "leka"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "other",
     "writing": "暖かい",
     "reading": "あたたかい",
-    "english": "warm"
+    "english": "warm",
+    "swedish": "varm"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "noun",
     "writing": "頭",
     "reading": "あたま",
-    "english": "head"
+    "english": "head",
+    "swedish": "huvud"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "adjective",
     "writing": "新しい",
     "reading": "あたらしい",
-    "english": "new"
+    "english": "new",
+    "swedish": "ny"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "other",
     "writing": "あちら",
     "reading": "あちら",
-    "english": "there"
+    "english": "there",
+    "swedish": "där"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "adjective",
     "writing": "暑い",
     "reading": "あつい",
-    "english": "hot"
+    "english": "hot",
+    "swedish": "het"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "adjective",
     "writing": "熱い",
     "reading": "あつい",
-    "english": "hot to the touch"
+    "english": "hot to the touch",
+    "swedish": "brännhet"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "adjective",
     "writing": "厚い",
     "reading": "あつい",
-    "english": "thick"
+    "english": "thick",
+    "swedish": "tjock"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "adjective",
     "writing": "厚い",
     "reading": "あつい",
-    "english": "deep"
+    "english": "deep",
+    "swedish": "djup"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "adjective",
     "writing": "厚い",
     "reading": "あつい",
-    "english": "kind"
+    "english": "kind",
+    "swedish": "snäll"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "other",
     "writing": "あっち",
     "reading": "あっち",
-    "english": "over there"
+    "english": "over there",
+    "swedish": "där borta"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "other",
     "writing": "後",
     "reading": "あと",
-    "english": "afterwards"
+    "english": "afterwards",
+    "swedish": "efteråt"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "other",
     "writing": "あなた",
     "reading": "あなた",
-    "english": "you"
+    "english": "you",
+    "swedish": "du"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "noun",
     "writing": "兄",
     "reading": "あに",
-    "english": "(humble) older brother"
+    "english": "(humble) older brother",
+    "swedish": "storebror (ödmjuk)"
   },
   {
-    "jlpt": "n5",
+    "jnlp": "n5",
     "type": "noun",
     "writing": "姉",
     "reading": "あね",
-    "english": "(humble) older sister"
+    "english": "(humble) older sister",
+    "swedish": "storasyster (ödmjuk)"
   },
   {
     "jlpt": "n5",
