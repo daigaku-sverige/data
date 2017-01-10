@@ -1,4 +1,5 @@
 .idea/
+data.iml
 # Created by .ignore support plugin (hsz.mobi)
 ### Scala template
 *.class
