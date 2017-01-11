@@ -85,32 +85,32 @@ hidden,n5,verb,居る,いる,have (used for people and animals),ha
 ,n5,verb,居る,いる,to be (used for people and animals),vara
 hidden,n5,verb,要る,いる,need,behöva
 ,n5,verb,入れる,いれる,put in,stoppa in
-,n5,other,色,いろ,colour
-,n5,other,いろいろ,いろいろ,various
-,n5,other,上,うえ,on top of
-,n5,other,後ろ,うしろ,behind
-,n5,other,薄い,うすい,weak
-hidden,n5,other,薄い,うすい,thin
-,n5,other,歌,うた,song
-,n5,verb,歌う,うたう,to sing
-,n5,verb,生まれる,うまれる,to be born
-,n5,other,海,うみ,sea
-,n5,verb,売る,うる,to sell
-,n5,other,煩い,うるさい,annoying
-,n5,other,煩い,うるさい,noisy
-,n5,other,上着,うわぎ,jacket
-,n5,other,絵,え,picture
-,n5,other,映画,えいが,movie
-,n5,other,映画館,えいがかん,cinema
-,n5,other,英語,えいご,English language
-,n5,other,ええ,ええ,yes
-,n5,other,駅,えき,station
-,n5,other,エレベーター,エレベーター,elevator
-,n5,other,鉛筆,えんぴつ,pencil
-,n5,other,おいしい,おいしい,delicious
-,n5,other,多い,おおい,many
-,n5,other,大きい,おおきい,big
-,n5,other,大きな,おおきな,big
+,n5,noun,色,いろ,colour,färg
+,n5,adjective,いろいろ,いろいろ,various,blandade
+,n5,adverb,上,うえ,on top of,ovanför
+,n5,adverb,後ろ,うしろ,behind,bakom
+,n5,adjective,薄い,うすい,weak,svag
+hidden,n5,adjective,薄い,うすい,thin,tunn
+,n5,noun,歌,うた,song,sång
+,n5,verb,歌う,うたう,sing,sjunga
+,n5,verb,生まれる,うまれる,be born,födas
+,n5,noun,海,うみ,sea,hav
+,n5,verb,売る,うる,sell,sälja
+hidden,n5,adjective,煩い,うるさい,annoying,irriterande
+,n5,adjective,煩い,うるさい,noisy,väsnande
+,n5,noun,上着,うわぎ,jacket,jacka
+,n5,noun,絵,え,picture,bild
+,n5,noun,映画,えいが,movie,film
+,n5,noun,映画館,えいがかん,cinema,biograf
+,n5,noun,英語,えいご,English language,engelska
+,n5,interjection,ええ,ええ,yes,ja
+,n5,noun,駅,えき,station,station
+,n5,noun,エレベーター,エレベーター,elevator,hiss
+,n5,noun,鉛筆,えんぴつ,pencil,blyertspenna
+,n5,adjective,おいしい,おいしい,delicious,delikat
+,n5,adjective,多い,おおい,many,många
+,n5,adjective,大きい,おおきい,big,stor
+,n5,adjective,大きな,おおきな,big,stor
 ,n5,other,大勢,おおぜい,great number of people
 ,n5,other,お母さん,おかあさん,(honorable) mother
 ,n5,other,お菓子,おかし,candy
@@ -201,7 +201,7 @@ hidden,n5,other,薄い,うすい,thin
 ,n5,other,体,からだ,body
 ,n5,verb,借りる,かりる,to borrow
 ,n5,other,軽い,かるい,light
-,n5,other,カレー,カレー,curry
+,n5,noun,カレー,カレー,curry,curry
 ,n5,other,カレンダー,カレンダー,calendar
 ,n5,other,河,かわ,river
 ,n5,other,川,かわ,river
