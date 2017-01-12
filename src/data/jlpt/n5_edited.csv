@@ -110,61 +110,59 @@ hidden,n5,adjective,煩い,うるさい,annoying,irriterande
 ,n5,adjective,おいしい,おいしい,delicious,delikat
 ,n5,adjective,多い,おおい,many,många
 ,n5,adjective,大きい,おおきい,big,stor
-,n5,adjective,大きな,おおきな,big,stor
-,n5,other,大勢,おおぜい,great number of people
-,n5,other,お母さん,おかあさん,(honorable) mother
-,n5,other,お菓子,おかし,candy
-,n5,other,お菓子,おかし,sweets
-,n5,other,お金,おかね,money
-,n5,verb,起きる,おきる,to get up
-,n5,verb,置く,おく,to put
-,n5,other,奥さん,おくさん,(honorable) wife
-,n5,other,お酒,おさけ,rice wine
-,n5,other,お酒,おさけ,alcohol
-,n5,other,お皿,おさら,dish
-,n5,other,お皿,おさら,plate
-,n5,other,伯父,おじいさん,male senior citizen
-,n5,other,叔父,おじいさん,grandfather
-,n5,other,伯父,おじいさん,male senior citizen
-,n5,other,叔父,おじいさん,grandfather
-,n5,verb,教える,おしえる,to tell
-,n5,verb,教える,おしえる,to teach
-,n5,other,叔父,おじさん,middle aged gentleman
-,n5,other,伯父,おじさん,uncle
-,n5,other,叔父,おじさん,middle aged gentleman
-,n5,other,伯父,おじさん,uncle
-,n5,verb,押す,おす,to stamp something
-,n5,verb,押す,おす,to push
-,n5,other,遅い,おそい,slow
-,n5,other,遅い,おそい,late
-,n5,other,お茶,おちゃ,green tea
-,n5,other,お手洗い,おてあらい,bathroom
-,n5,other,お父さん,おとうさん,(honorable) father
-,n5,other,弟,おとうと,younger brother
-,n5,other,男,おとこ,man
-,n5,other,男の子,おとこのこ,boy
-,n5,other,一昨日,おととい,day before yesterday
-,n5,other,一昨年,おととし,year before last
+hidden,n5,adjective,大きな,おおきな,big,stor
+,n5,adjective,大勢,おおぜい,great number of people,folkrik
+,n5,noun,お母さん,おかあさん,(honorable) mother,mor (artig)
+,n5,noun,お菓子,おかし,candy;sweets,godis
+,n5,noun,お金,おかね,money,pengar
+,n5,verb,起きる,おきる,to get up,stiga upp
+,n5,verb,置く,おく,to put,lägga
+,n5,noun,奥さん,おくさん,(honorable) wife,fru (artig)
+,n5,noun,お酒,おさけ,rice wine,risvin
+hidden,n5,noun,お酒,おさけ,alcohol,alkohol
+,n5,noun,お皿,おさら,dish;plate,tallrik
+hidden,n5,noun,伯父,おじいさん,male senior citizen,pensionär (man)
+hidden,n5,noun,叔父,おじいさん,grandfather,farfar;morfar
+hidden,n5,noun,伯父,おじいさん,male senior citizen,pensionär (man)
+,n5,noun,叔父,おじいさん,grandfather,farfar;morfar
+,n5,verb,教える,おしえる,tell,berätta
+,n5,verb,教える,おしえる,teach,lära ut
+hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
+hidden,n5,noun,伯父,おじさん,uncle,farbror;morbror
+hidden,n5,noun,叔父,おじさん,middle aged gentleman,medelålders man
+,n5,noun,伯父,おじさん,uncle,farbror;morbror
+hidden,n5,verb,押す,おす,stamp,stämpla
+,n5,verb,押す,おす,push,putta
+hidden,n5,other,遅い,おそい,slow,långsam
+,n5,adjective,遅い,おそい,late,sen
+,n5,noun,お茶,おちゃ,green tea,grönt te
+,n5,noun,お手洗い,おてあらい,bathroom,badrum
+,n5,noun,お父さん,おとうさん,(honorable) father,far (artig)
+,n5,noun,弟,おとうと,younger brother,yngre bror
+,n5,noun,男,おとこ,man,man
+,n5,noun,男の子,おとこのこ,boy,pojke
+,n5,temporal,一昨日,おととい,day before yesterday,iförrgår
+,n5,temporal,一昨年,おととし,year before last,förrförra året
 ,n5,noun,大人,おとな,adult,vuxen
-,n5,other,おなか,おなか,stomach
-,n5,other,同じ,おなじ,same
-,n5,other,お兄さん,おにいさん,(honorable) older brother
-,n5,other,お姉さん,おねえさん,(honorable) older sister
-,n5,other,おばあさん,おばあさん,female senior-citizen
-,n5,other,おばあさん,おばあさん,grandmother
-,n5,other,伯母さん,おばさん,aunt
-,n5,other,叔母さん,おばさん,aunt
-,n5,other,お風呂,おふろ,bath
-,n5,other,お弁当,おべんとう,boxed lunch
-,n5,verb,覚える,おぼえる,to remember
-,n5,other,おまわりさん,おまわりさん,friendly term for policeman
-,n5,other,重い,おもい,heavy
-,n5,other,おもしろい,おもしろい,interesting
-,n5,verb,泳ぐ,およぐ,to swim
-,n5,verb,降りる,おりる,to descend
-,n5,verb,降りる,おりる,to get off
-,n5,verb,終る,おわる,to finish
-,n5,other,音楽,おんがく,music
+,n5,noun,おなか,おなか,stomach,mage
+,n5,adjective,同じ,おなじ,same,samma
+,n5,noun,お兄さん,おにいさん,(honorable) older brother,äldre bror
+,n5,noun,お姉さん,おねえさん,(honorable) older sister,äldre syster
+,n5,noun,おばあさん,おばあさん,female senior-citizen,pensionär (kvinna)
+,n5,noun,おばあさん,おばあさん,grandmother,farmor;mormor
+,n5,noun,伯母さん,おばさん,aunt,moster;faster
+,n5,noun,叔母さん,おばさん,aunt,moster;faster
+,n5,noun,お風呂,おふろ,bath,bad
+,n5,noun,お弁当,おべんとう,boxed lunch,bento
+,n5,verb,覚える,おぼえる,remember,komma ihåg
+,n5,noun,おまわりさん,おまわりさん,friendly term for policeman,polisman (familjär)
+,n5,adjective,重い,おもい,heavy,tung
+,n5,adjective,おもしろい,おもしろい,interesting,intressant
+,n5,verb,泳ぐ,およぐ,to swim,simma
+,n5,verb,降りる,おりる,to descend,nedstiga
+hidden,n5,verb,降りる,おりる,to get off,kliva av
+,n5,verb,終る,おわる,to finish,avsluta
+,n5,noun,音楽,おんがく,music,musik
 ,n5,other,女,おんな,woman
 ,n5,other,女の子,おんなのこ,girl
 ,n5,other,外国,がいこく,foreign country
